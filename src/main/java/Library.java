@@ -5,7 +5,9 @@
  * @author NARENDARR, @date 8/9/16 9:38 PM
  */
 public class Library {
+    String name;
     public boolean someLibraryMethod() {
+        int a = 0;        
         return true;
     }
 }
